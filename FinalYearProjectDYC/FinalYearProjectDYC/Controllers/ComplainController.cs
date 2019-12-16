@@ -312,7 +312,7 @@ namespace FinalYearProjectDYC.Controllers
             smtpClient.Credentials = new System.Net.NetworkCredential()
             {
                 UserName = "prantoshon14@gmail.com",
-                Password = "pranto@14newlife@alive@millionaire#"
+                Password = ""
             };
             // Gmail works on SSL, so set this property to true
             smtpClient.EnableSsl = true;
